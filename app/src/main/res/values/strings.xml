@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_demo_app_005_lec_06</string>
+    <string name="iv_logo_brand_row">jetbrains_logo</string>
+    <string name="tv_name_brand_row">Company Name</string>
+    <string name="tv_date_brand_row">date</string>
+    <string name="iv_logo_activity_brand_desc_page">Big Logo</string>
+    <string name="iv_round_avatar_activity_brand_desc_page">Round Avatar</string>
+    <string name="tv_desc_activity_brand_desc_page">Lorem Ipsum...</string>
+    <string name="tv_header_activity_main">Select Your Favorite Company</string>
+</resources>
